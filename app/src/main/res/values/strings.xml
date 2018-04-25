@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MK_Words_Meaning_with_Firebase</string>
+
+    <string name="enterWord">Vnesete Zbor</string>
+    <string name="meaningWord">Znacenje na zborot</string>
+
+
+</resources>
